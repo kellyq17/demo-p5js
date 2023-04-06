@@ -1,3 +1,5 @@
+Edited 6 April in class activity by Yu Jun for improved colour accessibility 
+
 # demo-p5js
 Demo of the [p5.js library](https://p5js.org)
 
