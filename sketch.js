@@ -119,7 +119,7 @@ function draw() {
   background('#000000');   // change background to black
   for (let i = 0; i < numSegments - 1; i++) {
     line(xCor[i], yCor[i], xCor[i + 1], yCor[i + 1]);
-    stroke('#FFFFFF');  // change snake to white
+    stroke('#FFFFFF');  // chansge snake to white
   }
   updateSnakeCoordinates();
   updateHandContainer();
